@@ -1,0 +1,496 @@
+,Health Facility Name,Address,Landmark,Locality,Pincode,latitude,longitude,Facility Type,State_Name,\N,Taluka_Name,Block_Name
+0,DMO satara,Old civil hospital,satara,satara,415002.0,17.6861,74.0023,Sub-District Hospital,Maharashtra,Satara,Satara,Satara
+1,Bavdhan,1861,,Bavdhan,412804.0,17.912975,73.896105,Primary Health Centre,Maharashtra,Satara,Wai,Wai
+2,Shivajinagar,,,Shivajinagar,412802.0,18.089509,74.050287,SubCentre,Maharashtra,Satara,Khandala,Khandala
+3,Shere,,,Shere,415108.0,17.2082,74.2228,SubCentre,Maharashtra,Satara,Karad,Karad
+4,Maldan,\N,,Maldan,415112.0,17.244661,73.970618,SubCentre,Maharashtra,Satara,Patan,Patan
+5,Ghogaon,,,Ghogaon,415111.0,17.1407,74.056,SubCentre,Maharashtra,Satara,Karad,Karad
+6,Kenjal,208,,Kenjal,415536.0,17.9684,73.9658,SubCentre,Maharashtra,Satara,Wai,Wai
+7,Umarkanchan,\N,,Umarkanchan,415112.0,17.216478,73.910608,SubCentre,Maharashtra,Satara,Patan,Patan
+8,Rajale,250,,Rajale,415523.0,18.02353,74.536184,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+9,Bhade,,,Bhade,415526.0,18.111752,74.097614,SubCentre,Maharashtra,Satara,Khandala,Khandala
+10,Sadarbazar (Satara) Urban Health Centre,,,Sadar Bazar Satara,415002.0,17.694,74.0094,Urban Health Centre,Maharashtra,Satara,Satara,Satara
+11,Sakharwadi,359,,Sakharwadi,415523.0,18.055065,74.340177,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+12,Malkapur,Sub Centre Malkapur,Near NH4 Highway,Malkapur,415539.0,17.2615,74.1734,SubCentre,Maharashtra,Satara,Karad,Karad
+13,Dhavali,sub center dhavali,,village-dhavali,415013.0,17.6807,73.8156,SubCentre,Maharashtra,Satara,Satara,Satara
+14,Kodoli,sub center kodoli,,village kodoli,415004.0,17.6694,74.0344,SubCentre,Maharashtra,Satara,Satara,Satara
+15,Gulumb,929,,Gulumb,415536.0,17.996713,73.974069,SubCentre,Maharashtra,Satara,Wai,Wai
+16,Naigaon,,,Naigaon,412801.0,18.108574,73.963823,SubCentre,Maharashtra,Satara,Khandala,Khandala
+17,Lohare,6,,Lohae,412803.0,17.999261,73.906802,SubCentre,Maharashtra,Satara,Wai,Wai
+18,Nanegaon Bk.,\N,,Nanegaon Bk.,415520.0,17.41637,73.991817,SubCentre,Maharashtra,Satara,Patan,Patan
+19,Atit,,,Atit,412802.0,18.101212,73.889301,SubCentre,Maharashtra,Satara,Khandala,Khandala
+20,Bhavadhan,1412,,Bavdhan,412803.0,17.915655,73.900523,SubCentre,Maharashtra,Satara,Wai,Wai
+21,Pachawad,,,Pachawad,415508.0,17.4842,74.6588,SubCentre,Maharashtra,Satara,Man,Man
+22,Kalgaon,,,Kalagaon,415112.0,17.168418,73.959627,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+23,Malharpeth,,,Malharpeth,415205.0,17.341986,74.007213,SubCentre,Maharashtra,Satara,Patan,Patan
+24,Mandure,,,Mandure,415206.0,17.479766,73.883067,SubCentre,Maharashtra,Satara,Patan,Patan
+25,Chorade,,,Chorade,415538.0,17.421239,74.379222,SubCentre,Maharashtra,Satara,Khatav,Khatav
+26,Varye,sub center varye,,village-varye,415015.0,17.7331,73.9928,SubCentre,Maharashtra,Satara,Satara,Satara
+27,Visapur,,,Visapur,415502.0,17.687768,74.301991,SubCentre,Maharashtra,Satara,Khatav,Khatav
+28,Hingani,,,Hingani,415509.0,17.65,74.8532,SubCentre,Maharashtra,Satara,Man,Man
+29,Kalambi,,,Kalambi,415512.0,17.488272,74.29991,SubCentre,Maharashtra,Satara,Khatav,Khatav
+30,Mardi,,,Mardi,415508.0,17.7404,74.698,SubCentre,Maharashtra,Satara,Man,Man
+31,Mathachiwadi,64,,Mathachiwadi,415523.0,18.001865,74.574535,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+32,Bhuinj,1859,,Bhuinj,415115.0,17.879129,73.97077,Primary Health Centre,Maharashtra,Satara,Wai,Wai
+33,Kapil,\N,,Kapil,415124.0,17.2446,74.2003,SubCentre,Maharashtra,Satara,Karad,Karad
+34,Aasawalewadi,,,Aasawalewadi,415211.0,17.273523,73.962914,SubCentre,Maharashtra,Satara,Patan,Patan
+35,Kameri,sub ceter kameri,,village-kameri,415019.0,17.5481,74.1484,SubCentre,Maharashtra,Satara,Satara,Satara
+36,Chandak,56,,Chandak,415536.0,18.005445,73.959014,SubCentre,Maharashtra,Satara,Wai,Wai
+37,Maalgaon,sub center malgaon,,village-maalgaon,415011.0,17.8117,74.0389,SubCentre,Maharashtra,Satara,Satara,Satara
+38,Palashi,M-432,,Palashi,415011.0,17.821,74.1155,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+39,Ninam,sub center ninam,,village-ninam,415519.0,17.5747,74.0005,SubCentre,Maharashtra,Satara,Satara,Satara
+40,Kadhane,,,Kadhane,415103.0,17.251433,74.034888,SubCentre,Maharashtra,Satara,Patan,Patan
+41,Shendurjane,576,,Shendurjane,412803.0,17.957118,73.926816,SubCentre,Maharashtra,Satara,Wai,Wai
+42,Helgaon,,,Helgaon,415106.0,17.4569,74.1645,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+43,Malawadi,\N,,Malawadi,415508.0,18.1643,74.0975,Primary Health Centre,Maharashtra,Satara,Man,Man
+44,Padloshi,,,Padloshi,415520.0,17.430982,73.951381,SubCentre,Maharashtra,Satara,Patan,Patan
+45,Rajale,250,,Rajale,415523.0,18.023448,74.535837,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+46,Chore,,,Chore,415109.0,17.4462,74.035,SubCentre,Maharashtra,Satara,Karad,Karad
+47,Giravi,858,,,415523.0,17.885477,74.453782,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+48,Nagthane,phc nagthane,,village-nagthane,415519.0,17.5669,74.0498,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+49,Mahind,\N,,Mahind,415112.0,17.282314,73.898235,SubCentre,Maharashtra,Satara,Patan,Patan
+50,Dudhagaon,15,pratapgad Road,Subcenter Dudhgaon,412806.0,17.8604,73.6434,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+51,Mhate Bk,189,Near By ZP School,Mhate Bk.,415012.0,17.8138,73.7918,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+52,Karanje Tarf parali,sub center karanje,,village-karanje t. parali,415013.0,17.6695,73.9213,SubCentre,Maharashtra,Satara,Satara,Satara
+53,Banpuri,,,Banpuri,415112.0,17.268984,73.932511,SubCentre,Maharashtra,Satara,Patan,Patan
+54,Konegaon,,,Konegaon,415106.0,17.3837,74.1312,SubCentre,Maharashtra,Satara,Karad,Karad
+55,Mariaaichiwadi,,,Mariaaichiwadi,415521.0,18.067799,74.175482,SubCentre,Maharashtra,Satara,Khandala,Khandala
+56,Nimsode,,,Nimsod,415538.0,17.456591,74.464588,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+57,Ranand,,,Ranand,415508.0,17.7163,74.6376,SubCentre,Maharashtra,Satara,Man,Man
+58,Ozarde,823,,Ozarde,412803.0,17.913688,73.949986,SubCentre,Maharashtra,Satara,Wai,Wai
+59,Sadashivgad,,,Sadashivgad,415105.0,17.3141,74.232,SubCentre,Maharashtra,Satara,Karad,Karad
+60,Rajapur,,,Rajapur,415503.0,17.785836,74.339802,SubCentre,Maharashtra,Satara,Khatav,Khatav
+61,Wathar Nimbalk 2,94,,Wathar Nimbalk 2,415523.0,17.993288,74.397748,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+62,Ghanbi,\N,,Ghanbi,415206.0,17.429889,73.834971,SubCentre,Maharashtra,Satara,Patan,Patan
+63,Aawarde,,,Aawarde,415014.0,17.512991,73.942628,SubCentre,Maharashtra,Satara,Patan,Patan
+64,Mahimangad,,,Mahimangad,415023.0,17.7019,74.4638,SubCentre,Maharashtra,Satara,Man,Man
+65,Rural Hospital Medha,\N,,At Post. Medha Tal. Jaoli,415012.0,17.793,73.8274,Community Health Center,Maharashtra,Satara,Jaoli,Jaoli
+66,Algulewadi,1,,Algulewadi,415523.0,18.009968,74.456375,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+67,Marul Haweli,,,Marul Haweli,415211.0,17.304993,74.008361,SubCentre,Maharashtra,Satara,Patan,Patan
+68,Kudal,825,Near By High School,Kudal,415514.0,17.8379,73.9215,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+69,Ekambe,,,Ekambe,415501.0,17.683575,74.233353,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+70,Khute,86,,Khute,415523.0,18.068691,74.411895,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+71,Holichagaon,,,Holichagaon,415538.0,17.470167,74.435209,SubCentre,Maharashtra,Satara,Khatav,Khatav
+72,Mhavashi,,,Mhavashi,415206.0,17.384704,73.920007,SubCentre,Maharashtra,Satara,Patan,Patan
+73,Limb,sub center limb,,village-limb,415015.0,17.7901,74.0067,SubCentre,Maharashtra,Satara,Satara,Satara
+74,Malawadi,,,Malawadi,415508.0,17.7641,74.4554,SubCentre,Maharashtra,Satara,Man,Man
+75,Kumthe,phc kumathe,,village-kumathe,415002.0,17.6015,73.9658,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+76,Saspade,sub center saspade,,village-saspade,415014.0,17.5175,74.0125,SubCentre,Maharashtra,Satara,Satara,Satara
+77,Kusur,,,Kusur,415103.0,17.2456,74.0512,SubCentre,Maharashtra,Satara,Karad,Karad
+78,Parle,,,Parle,415124.0,17.3332,74.1999,SubCentre,Maharashtra,Satara,Karad,Karad
+79,Kalaj,432,,Kalaj,415028.0,18.014738,74.292101,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+80,Kodoli,\N,,Kodoli,415124.0,17.6695,74.336,SubCentre,Maharashtra,Satara,Karad,Karad
+81,Phaltan Urban Health Centre,,,Phaltan,415523.0,17.9884,74.4301,Urban Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+82,Mhaswad,,,Mhaswad,415509.0,17.6342,74.7844,Primary Health Centre,Maharashtra,Satara,Man,Man
+83,Kale 1,\N,,Kale 1,415104.0,17.2786,74.1988,SubCentre,Maharashtra,Satara,Karad,Karad
+84,Rural Hospital Koregaon,,,At Post Koreagaon,415501.0,17.6969,74.1596,Community Health Center,Maharashtra,Satara,Koregaon,Koregaon
+85,Chitali,,,Chitali,415538.0,17.42009,74.499087,SubCentre,Maharashtra,Satara,Khatav,Khatav
+86,Targaon,,,Targaon,415107.0,17.511323,74.149313,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+87,Saswad,\N,,Saswad,415523.0,17.981756,74.256245,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+88,Rural Hospital Aundh,,,At post Aundh,415510.0,17.5402,74.3306,Community Health Center,Maharashtra,Satara,Khatav,Khatav
+89,Rajachekurle,,,Rajachekurle,415512.0,17.448018,74.276802,SubCentre,Maharashtra,Satara,Khatav,Khatav
+90,Pasarani,710,,Pasarani,412803.0,17.948175,73.848445,SubCentre,Maharashtra,Satara,Wai,Wai
+91,Jinti,251,,Jinti,415523.0,18.063484,74.380405,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+92,Saundari,30,Near Kuroshi Village,Subcenter Saundari,412806.0,17.843,73.7211,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+93,Kasani,\N,,Kasani,415112.0,17.165195,73.899992,SubCentre,Maharashtra,Satara,Patan,Patan
+94,Kutare,\N,,Kutare,415112.0,17.208671,73.967546,SubCentre,Maharashtra,Satara,Patan,Patan
+95,Malchaudi,97,Village Outeside,Malchoundi,415012.0,17.7435,73.8455,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+96,Rural Hospital Khandala,,,At Post Khandala,412802.0,18.0551,74.017,Community Health Center,Maharashtra,Satara,Khandala,Khandala
+97,Gogave,17,pratapgad Road,Subcenter  Gogave,412806.0,17.8085,73.7361,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+98,Yewati,\N,,Yewati,415111.0,17.1541,74.0118,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+99,Chikhali,22,Tapola Road,Subcenter Chikhli,,73.8665,73.6821,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+100,Venegaon,sub center venegaon,,village-venegaon,415518.0,17.5037,74.1163,SubCentre,Maharashtra,Satara,Satara,Satara
+101,Padali,,,Padali,415106.0,17.4808,74.1862,SubCentre,Maharashtra,Satara,Karad,Karad
+102,Masur,,,Masur,415106.0,17.3982,74.1678,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+103,Asawali,,,Asawali,412802.0,18.04794,73.954082,SubCentre,Maharashtra,Satara,Khandala,Khandala
+104,Wahagaon,,,Wahagaon,415124.0,17.3326,74.1563,SubCentre,Maharashtra,Satara,Karad,Karad
+105,Khed,sub center khed,,village-khed,415001.0,17.7019,74.0334,SubCentre,Maharashtra,Satara,Satara,Satara
+106,Vikhale,,,Vikhale,415312.0,17.455884,74.624133,SubCentre,Maharashtra,Satara,Khatav,Khatav
+107,Palashi,,,Palashi,415512.0,17.497386,74.364691,SubCentre,Maharashtra,Satara,Khatav,Khatav
+108,Mandhardev,189,,Mandhardev,412803.0,18.0466,73.8761,SubCentre,Maharashtra,Satara,Wai,Wai
+109,Murud,murud phc,near dam,Murud,415014.0,17.537945,73.907274,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+110,Kashil,sub center kashil,,village-kashil,415519.0,17.4806,74.0851,SubCentre,Maharashtra,Satara,Satara,Satara
+111,Nijare,177,Near By ZP School,Nizare,415012.0,17.7503,73.8565,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+112,Maneri,,,Maneri,415206.0,17.430594,73.741969,SubCentre,Maharashtra,Satara,Patan,Patan
+113,Supane,,,Supane,415114.0,17.297,74.1197,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+114,Sanbur,,,Sanbur,415112.0,17.263027,73.911772,SubCentre,Maharashtra,Satara,Patan,Patan
+115,Kondave,sub center kondave,,village-koandave,415002.0,17.715,73.9221,SubCentre,Maharashtra,Satara,Satara,Satara
+116,Talbid,,,Talbid,415109.0,17.3384,74.1096,SubCentre,Maharashtra,Satara,Karad,Karad
+117,Barad,2,,Barad,415523.0,17.955485,74.584038,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+118,AAkoshi,221,,Akoshi,412803.0,17.972188,73.770453,SubCentre,Maharashtra,Satara,Wai,Wai
+119,Rural Hospital Gondawale Kh.,,,At post Gondwale kh.,415540.0,17.663,74.6159,Community Health Center,Maharashtra,Satara,Man,Man
+120,Banawadi,,,Banawadi,415011.0,17.836647,74.066453,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+121,Bamnoli,27,Near by Koyna DAM,Bamnoli,415002.0,17.7329,73.7608,Primary Health Centre,Maharashtra,Satara,Jaoli,Jaoli
+122,Jalaw,\N,,Jalaw,415014.0,17.518106,73.885368,SubCentre,Maharashtra,Satara,Patan,Patan
+123,Pember,,,Pember,415014.0,17.4893,74.0312,SubCentre,Maharashtra,Satara,Karad,Karad
+124,Keledhone,,,Keledhone,415312.0,17.431635,74.644364,SubCentre,Maharashtra,Satara,Khatav,Khatav
+125,Warugad,,,Warugad,415503.0,17.839,74.4828,SubCentre,Maharashtra,Satara,Man,Man
+126,Andharwadi,,,Andharwadi,415109.0,17.4014,74.063,SubCentre,Maharashtra,Satara,Karad,Karad
+127,Mundhe,,,Mundhe,415124.0,17.2981,74.1553,SubCentre,Maharashtra,Satara,Karad,Karad
+128,Sindikhurda,,,Sindikhurda,415503.0,17.7913,74.4302,SubCentre,Maharashtra,Satara,Man,Man
+129,Wadoli Nileshwar,,,Wadoli Nileshwar,415115.0,17.3564,74.1994,SubCentre,Maharashtra,Satara,Karad,Karad
+130,Sonawade,sonawade,Near by ZP School,Sonawade,415111.0,17.306296,73.927718,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+131,Velang,123,,Velang,412803.0,17.99839,73.80383,SubCentre,Maharashtra,Satara,Wai,Wai
+132,Kudal,825,Near by High School,Kudal,415514.0,17.8379,73.9406,Primary Health Centre,Maharashtra,Satara,Jaoli,Jaoli
+133,Jihe,sub center jihe,,village-jihe,415004.0,17.6247,74.1378,SubCentre,Maharashtra,Satara,Satara,Satara
+134,Diwad,,,Diwad,415509.0,17.6265,74.7055,SubCentre,Maharashtra,Satara,Man,Man
+135,Kedambe,52,Near by ZP School,Kedambe,415012.0,17.8802,73.7621,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+136,Majgoan,,,Majgoan,415520.0,17.392231,74.044476,SubCentre,Maharashtra,Satara,Patan,Patan
+137,Yeralwadi,,,Yeralwadi,415507.0,17.549525,74.500107,SubCentre,Maharashtra,Satara,Khatav,Khatav
+138,Padegaon,899,,Padegaon,415028.0,18.071565,74.224047,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+139,Sub-District Hospital Karad,\N,,Karad,415110.0,17.2017,17.5912,Sub-District Hospital,Maharashtra,Satara,Karad,Karad
+140,Yenake,,,Yenake,415103.0,17.276,74.0911,SubCentre,Maharashtra,Satara,Karad,Karad
+141,Belawadi Haweli,,,Belawade Haveli,415109.0,17.3543,74.1372,SubCentre,Maharashtra,Satara,Karad,Karad
+142,Vardangad,,,vardhangad,415501.0,17.721665,74.268528,SubCentre,Maharashtra,Satara,Khatav,Khatav
+143,Dahigaon,\N,,Dahigaon,415524.0,17.879421,74.106946,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+144,Wagheri,,,Wagheri,415105.0,17.3591,74.2343,SubCentre,Maharashtra,Satara,Karad,Karad
+145,Rural Hospital Patan,,,At Post Patan,415206.0,17.3794,74.8994,Community Health Center,Maharashtra,Satara,Patan,Patan
+146,Karandi,243,Near By ZP School,Karandi,415020.0,17.8293,73.858,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+147,Kharshi,82,Near by Mandir,Kharshi Ba.,415514.0,17.8857,73.8342,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+148,Vihe,\N,,Vihe,415205.0,17.33868,74.056723,SubCentre,Maharashtra,Satara,Patan,Patan
+149,Enkul,,,Enkul,415507.0,17.558177,74.579364,SubCentre,Maharashtra,Satara,Khatav,Khatav
+150,Bhanang,169,Near by ZP School,Bhanang,415022.0,17.7708,73.8756,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+151,Darekhurd,116,Near By ZP School,Dare Kh.,415020.0,17.6791,73.9681,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+152,Paneri,,,Paneri,415112.0,17.243072,73.833388,SubCentre,Maharashtra,Satara,Patan,Patan
+153,Tambave,508,,Tambave,415523.0,17.993489,74.170428,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+154,Shenoli,,,Shenoli,415108.0,17.1894,74.2604,SubCentre,Maharashtra,Satara,Karad,Karad
+155,Malatpur,49,,Malatpur,412803.0,17.947202,73.776321,Primary Health Centre,Maharashtra,Satara,Wai,Wai
+156,Belawade,,,Belawade,415539.0,17.1567,74.1673,SubCentre,Maharashtra,Satara,Karad,Karad
+157,Wathar,,,Wathar,415524.0,17.1811,74.181,SubCentre,Maharashtra,Satara,Karad,Karad
+158,Taladeo,29 B,Near Bus Stand,Primary Health Center Taldev,412806.0,17.8251,73.6921,Primary Health Centre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+159,Umbraj,,,Umbraj,415109.0,17.4021,74.0999,SubCentre,Maharashtra,Satara,Karad,Karad
+160,Kole,\N,,Kole,415103.0,17.2588,74.0801,SubCentre,Maharashtra,Satara,Karad,Karad
+161,Gondawale bk,\N,,Gondavale BK,415540.0,17.6626,74.5789,SubCentre,Maharashtra,Satara,Man,Man
+162,Aahire,,,Aahire,412802.0,18.059293,74.071486,Primary Health Centre,Maharashtra,Satara,Khandala,Khandala
+163,Pachagani,M,Panchgani - mahabaleshwar road,Primary Health Center Panchgani,412805.0,17.923718,73.79858,Primary Health Centre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+164,Marali,marli phc,gavanwadi fata,MARALI,415211.0,17.325191,73.954707,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+165,Kikali,69,,Kikali,415530.0,17.851975,74.011425,SubCentre,Maharashtra,Satara,Wai,Wai
+166,Surur,257,,Surur,415517.0,17.963517,73.98482,SubCentre,Maharashtra,Satara,Wai,Wai
+167,Karad Urban Health Centre,78,"near Dombiwali Bank,Karad",karad,415110.0,17.2844,74.1857,Urban Health Centre,Maharashtra,Satara,Karad,Karad
+168,Gunaware,579,,Gunaware,415523.0,17.990197,74.592603,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+169,Khatav,,,Khatav,415505.0,17.662091,74.368756,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+170,Chorajwadi,,,Chorajwadi,415109.0,17.4577,73.9971,SubCentre,Maharashtra,Satara,Karad,Karad
+171,Bhataki,,,Bhataki,415509.0,32.7873,96.7776,SubCentre,Maharashtra,Satara,Man,Man
+172,Rural Hospital Somardi,,,At Post Somardi,415514.0,17.8557,73.8878,Community Health Center,Maharashtra,Satara,Jaoli,Jaoli
+173,Rethare Bk.,\N,,Rethare Bk,415108.0,17.1633,74.2234,SubCentre,Maharashtra,Satara,Karad,Karad
+174,Hol,105,,Hol,415522.0,18.105766,74.35255,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+175,Kukudwad,,,Kukudwad,415509.0,17.5413,74.6457,SubCentre,Maharashtra,Satara,Man,Man
+176,Umbraj,,,Umbraj,415109.0,17.4016,74.102,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+177,Karnwadi,,,Karnwadi,412802.0,18.074042,73.897219,SubCentre,Maharashtra,Satara,Khandala,Khandala
+178,Malharpeth,123,Near by ST Stand,Malharpeth,415205.0,17.342007,74.006986,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+179,Rewadi,,,Rewadi,415011.0,17.800503,74.088634,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+180,Rohot,sub center rohot,,village-rohot,415013.0,17.6861,73.8556,SubCentre,Maharashtra,Satara,Satara,Satara
+181,Dhavadi,132,,Dhavadi,412803.0,18.020376,73.872466,SubCentre,Maharashtra,Satara,Wai,Wai
+182,Pachwad,,,Pachwad,415312.0,17.486772,74.651825,SubCentre,Maharashtra,Satara,Khatav,Khatav
+183,Wadgaon Haweli,,,Wadgaon Haweli,415124.0,17.2364,74.2437,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+184,Khatav,,,Khatav,415505.0,17.662091,74.368756,SubCentre,Maharashtra,Satara,Khatav,Khatav
+185,Khale,,,Khale,415103.0,17.233439,73.991509,SubCentre,Maharashtra,Satara,Patan,Patan
+186,Kasar Shirambe,,,Kasar Shirambe,415539.0,17.1407,74.1386,SubCentre,Maharashtra,Satara,Karad,Karad
+187,Nenegoan Kh.,,,Nenegoan Kh.,415520.0,17.423315,74.004816,SubCentre,Maharashtra,Satara,Patan,Patan
+188,Kumbharosi 2,15,pratapgad Road,Subcenter Kumbharoshi 2,412806.0,17.917,73.5893,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+189,Tarale,,,Tarale,415014.0,17.495151,73.980469,SubCentre,Maharashtra,Satara,Patan,Patan
+190,Tarukh,\N,,Tarukh,415103.0,17.2396,74.0418,SubCentre,Maharashtra,Satara,Karad,Karad
+191,Dhamani,,,Dhamani,415112.0,17.185897,73.973359,SubCentre,Maharashtra,Satara,Patan,Patan
+192,Saratale,244,Near by Zp School,Sartale,415513.0,17.8534,73.9305,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+193,Vele,14,,Vale,415517.0,17.996421,73.992351,SubCentre,Maharashtra,Satara,Wai,Wai
+194,Chilewadi,\N,,chilewadi,415107.0,17.87527,74.249719,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+195,Indoli,,,Indoli,415109.0,17.4386,74.0828,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+196,Phadatarwadi,13,,Phadatarwadi,415522.0,18.041438,74.37413,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+197,Chinchaner Vandan,\N,,chinchner vandan,415002.0,17.6548,74.0885,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+198,Gokul,,,Gokul,415205.0,17.39231,73.740103,SubCentre,Maharashtra,Satara,Patan,Patan
+199,Ganje,129,Near By ZP School,Ganje,415012.0,17.7819,73.8075,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+200,Katgun,,,Katgun,415502.0,17.696907,74.346908,SubCentre,Maharashtra,Satara,Khatav,Khatav
+201,Helwak,,,Helwak,415205.0,17.376791,73.730122,SubCentre,Maharashtra,Satara,Patan,Patan
+202,Tadawale,\N,,Tadawale,415010.0,17.749774,74.158406,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+203,Kshetramahuli,sub center kshetramahuli,,village-kshetramahuli,415003.0,17.691,74.058,SubCentre,Maharashtra,Satara,Satara,Satara
+204,Rethare Bk.,\N,,Rethare Bk.,415108.0,17.1631,74.222,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+205,Vaduth,sub center vaduth,,village-vaduth,415011.0,17.7535,74.055,SubCentre,Maharashtra,Satara,Satara,Satara
+206,Aangapur tarf,sub center angapur tarf,,village-angapur tarf,415019.0,17.5316,74.13,SubCentre,Maharashtra,Satara,Satara,Satara
+207,Ambawade Khurda,sub center ambawade khd.,,village - ambawade khd.,415002.0,17.6528,73.9528,SubCentre,Maharashtra,Satara,Satara,Satara
+208,Vadagaon Jayramswami,,,Vadagaon Jayramswami,415512.0,17.446839,74.346082,SubCentre,Maharashtra,Satara,Khatav,Khatav
+209,Keral,\N,,Keral,415206.0,17.455649,73.884099,SubCentre,Maharashtra,Satara,Patan,Patan
+210,Godoli (Satara) Urban Health Centre,,,Godoli Satara,415001.0,17.6807,74.0131,Urban Health Centre,Maharashtra,Satara,Satara,Satara
+211,Wadjal,,,Wadjal,415509.0,17.5676,74.6689,SubCentre,Maharashtra,Satara,Man,Man
+212,Dadoli,,,Dadoli,415520.0,17.392541,73.96742,SubCentre,Maharashtra,Satara,Patan,Patan
+213,Jamb,42,Near ST Stand,Jamb,415530.0,17.842449,73.997442,SubCentre,Maharashtra,Satara,Wai,Wai
+214,Pujya Kasturba Maternity Home Satara,,,satara,,0.0,0.0,Maternity Home,Maharashtra,Satara,Satara,Satara
+215,Diskal,,,Diskal,415504.0,17.820046,74.296802,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+216,Nandal,161,,Nandal,415028.0,17.984578,74.312388,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+217,Humgaon,123,Near by Mandir,Humgaon,415514.0,17.8721,73.868,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+218,Bichkule,,,Bichkule,415524.0,17.837244,74.141382,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+219,Pusesawali,,,Pusesawali,415512.0,17.461041,74.318755,SubCentre,Maharashtra,Satara,Khatav,Khatav
+220,Aatoli,\N,,Aatoli,415210.0,17.323034,73.848649,SubCentre,Maharashtra,Satara,Patan,Patan
+221,Thembhu,,,Thembhu,415105.0,17.2827,74.234,SubCentre,Maharashtra,Satara,Karad,Karad
+222,Mardi,,,Mardi,415508.0,17.7404,74.698,Primary Health Centre,Maharashtra,Satara,Man,Man
+223,Bhosare,,,Bhosare,415527.0,17.603984,74.337565,SubCentre,Maharashtra,Satara,Khatav,Khatav
+224,Rural Hospital Wai,,,At Post Wai,412803.0,17.9543,73.8871,Community Health Center,Maharashtra,Satara,Wai,Wai
+225,Siddheswar Kuroli,,,Siddheswar Kuroli,415527.0,17.5977,74.390515,SubCentre,Maharashtra,Satara,Khatav,Khatav
+226,Keral,140,keral village,KERAL,415206.0,17.451103,73.879503,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+227,Tapola,40,Near Koyna River,Primary Health Center Tapola,412806.0,17.7656,73.7422,Primary Health Centre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+228,Jamb,,,Jamb,415505.0,17.627964,74.288234,SubCentre,Maharashtra,Satara,Khatav,Khatav
+229,Supane,,,Supane,415114.0,17.3008,74.1232,SubCentre,Maharashtra,Satara,Karad,Karad
+230,Derebudruk,86,Near By ZP School,Dare Bk.,415020.0,17.81,73.8679,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+231,Shamgoan,,,Shamgaon,415106.0,17.4037,74.2557,SubCentre,Maharashtra,Satara,Karad,Karad
+232,Bibi,\N,,Bibi,415537.0,17.925602,17.276494,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+233,Dhawal,,,Dhawal,415537.0,17.903079,74.35454,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+234,Hingangaon,\N,,Hingangaon,415028.0,17.967736,74.219004,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+235,Vetane,,Near Water Tank,Vetane,415503.0,17.747822,74.343836,SubCentre,Maharashtra,Satara,Khatav,Khatav
+236,Manainagar,\N,,Manainagar,415205.0,17.43726,73.783387,SubCentre,Maharashtra,Satara,Patan,Patan
+237,Vaduj,,,Vaduj,415506.0,17.595358,74.452998,SubCentre,Maharashtra,Satara,Khatav,Khatav
+238,Khed,,,Khed.,415010.0,17.763092,74.154307,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+239,Rahimatpur,\N,,Rahimatpur,415501.0,17.5934,74.2007,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+240,Ladegaon,,,Ladegaon,415512.0,17.476284,74.361756,SubCentre,Maharashtra,Satara,Khatav,Khatav
+241,Murud,\N,,Murud,415014.0,17.534596,73.906847,SubCentre,Maharashtra,Satara,Patan,Patan
+242,Kale 2,,,Kale 2,415104.0,17.1933,74.1536,SubCentre,Maharashtra,Satara,Karad,Karad
+243,Sonawade,\N,,Sonawade,415211.0,17.309339,73.937947,SubCentre,Maharashtra,Satara,Patan,Patan
+244,Anpatwadi,,,Anpatwadi,415525.0,17.87924,74.080907,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+245,Nadoli,\N,,Nadoli,415205.0,17.363772,73.973793,SubCentre,Maharashtra,Satara,Patan,Patan
+246,Borgaon,222,,Borgoan,412803.0,17.941226,73.755859,SubCentre,Maharashtra,Satara,Wai,Wai
+247,Dharpudi,,,Dharpudi,415505.0,17.677753,74.388049,SubCentre,Maharashtra,Satara,Khatav,Khatav
+248,Padal,,,Padal,415507.0,17.505315,74.584581,SubCentre,Maharashtra,Satara,Khatav,Khatav
+249,Jawale,,,Jawale,412801.0,18.078525,73.925297,SubCentre,Maharashtra,Satara,Khandala,Khandala
+250,Chafal,\N,,Chafal,415520.0,17.394394,74.020678,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+251,Sonawadi Kh.,9:00 AM,,Sonawadi Kh.,415523.0,17.947144,74.495744,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+252,Gursale,,,Gursale,415506.0,17.522299,74.441182,SubCentre,Maharashtra,Satara,Khatav,Khatav
+253,Aanewadi,40,Near by Mandir,Anewadi,415020.0,17.8052,73.9629,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+254,Kharade,,,Kharade,415109.0,17.4393,74.1333,SubCentre,Maharashtra,Satara,Karad,Karad
+255,Dheur,,,deur,415524.0,17.856696,74.116666,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+256,Nandgaon,sub center nandgaon,,village- nandgaon,415107.0,17.5228,74.1421,SubCentre,Maharashtra,Satara,Satara,Satara
+257,Yewati,,,Yewati,415111.0,17.1537,74.0124,SubCentre,Maharashtra,Satara,Karad,Karad
+258,Diskal,,,Diskal,415504.0,17.815294,74.294682,SubCentre,Maharashtra,Satara,Khatav,Khatav
+259,Dhoroshi,\N,,Dhoroshi,415014.0,17.5257,73.901233,SubCentre,Maharashtra,Satara,Patan,Patan
+260,Budh,,,Budh,415503.0,17.770519,74.332407,SubCentre,Maharashtra,Satara,Khatav,Khatav
+261,Tarale,122,Near by ST Stand,Tarle,415014.0,17.495275,73.979694,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+262,Koparde,,,Koparde,415521.0,17.962721,74.148982,SubCentre,Maharashtra,Satara,Khandala,Khandala
+263,Rawadi Bk.,138,,Rawadi Bk.,415523.0,18.053616,74.282566,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+264,Rajapuri,,,village-rajapuri,415013.0,17.6544383,74.3675366,SubCentre,Maharashtra,Satara,Satara,Satara
+265,Kumbhargaon,\N,,Kumbhargaon,415103.0,17.218267,74.009119,SubCentre,Maharashtra,Satara,Patan,Patan
+266,Rural Hospital Kaledhon,,,At Post Kaledhone,415312.0,17.4324,74.6461,Community Health Center,Maharashtra,Satara,Khatav,Khatav
+267,Bharatgaonwadi,sub center bharatgaonwadi,,village-bharatgaonwadi,415519.0,17.6027,74.0401,SubCentre,Maharashtra,Satara,Satara,Satara
+268,Devapur,,,Devapur,415509.0,17.5986,74.8311,SubCentre,Maharashtra,Satara,Man,Man
+269,Marali,,,Marali,415211.0,17.323645,73.956133,SubCentre,Maharashtra,Satara,Patan,Patan
+270,Kale,,,Kale,415104.0,17.1945,74.1529,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+271,Khodashi,,,Khodashi,415124.0,17.3219,74.1666,SubCentre,Maharashtra,Satara,Karad,Karad
+272,Andrud,75,,Andrud,415523.0,17.886756,74.624417,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+273,Chafal,,,Chafal,415520.0,17.397861,74.020016,SubCentre,Maharashtra,Satara,Patan,Patan
+274,Kinhai,\N,,Kinhai,415021.0,17.8078,74.1728,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+275,Helgoan,,,Helgaon,415106.0,17.4567,74.1647,SubCentre,Maharashtra,Satara,Karad,Karad
+276,Karvadi,\N,,Karavadi,415105.0,17.3353,74.2236,SubCentre,Maharashtra,Satara,Karad,Karad
+277,Kinahi,\N,,Kinahi,415021.0,17.7929,74.176464,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+278,Velu,,,Velu,415511.0,17.577588,74.253869,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+279,Sonake,\N,,sonake,415525.0,17.937781,74.074904,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+280,Triputi,,,Triputi,415501.0,17.688184,74.103267,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+281,Bopegaon,349,,Bopegoan,,17.932768,73.96137,SubCentre,Maharashtra,Satara,Wai,Wai
+282,Shirwal,,,Shirwal,412801.0,18.153854,73.974044,Primary Health Centre,Maharashtra,Satara,Khandala,Khandala
+283,Gawadi,222,Near by ST Stand,Gawadi,415012.0,17.7045,73.9276,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+284,Vajroshi,\N,,Vajroshi,415014.0,17.474808,73.966052,SubCentre,Maharashtra,Satara,Patan,Patan
+285,Dhavadwadi,,,Dhavadwadi,412802.0,18.025805,74.054992,SubCentre,Maharashtra,Satara,Khandala,Khandala
+286,Munawale,19,Near by Zp School,Munawale,415002.0,17.6977,73.7798,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+287,Velapur,10,Tapola Road,Subcenter Velapur,412806.0,17.7824,73.707,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+288,Wathar Nimblak 1,4,,Wathar Nimblak 1,415523.0,17.963063,74.371429,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+289,Katarkhatav,,,Katarkhatav,415507.0,17.568724,74.520963,SubCentre,Maharashtra,Satara,Khatav,Khatav
+290,Parali,phc parali,urmodi dam,parali,415013.0,17.6651,73.9149,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+291,Julewadi,\N,,Julewadi,415108.0,17.1777,74.2443,SubCentre,Maharashtra,Satara,Karad,Karad
+292,Kokisare,\N,,Kokisare,415210.0,17.311148,73.812227,SubCentre,Maharashtra,Satara,Patan,Patan
+293,Kasarud,25,pratapgad Road,Subcenter Kasrud,412806.0,17.8991,73.5882,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+294,Koregoan,,,Koregaon,415104.0,17.2765,74.2436,SubCentre,Maharashtra,Satara,Karad,Karad
+295,Nitral,sub center nitral,,village-nitral,415013.0,17.653,73.8631,SubCentre,Maharashtra,Satara,Satara,Satara
+296,Nawadi,,,Nawadi,415211.0,17.339078,74.038969,SubCentre,Maharashtra,Satara,Patan,Patan
+297,Chindhawali,14,,Chindhawali,412803.0,17.866387,73.955022,SubCentre,Maharashtra,Satara,Wai,Wai
+298,Wing,,,Wing,415122.0,17.1088,74.0364,SubCentre,Maharashtra,Satara,Karad,Karad
+299,Pulkoti,\N,,Pulkoti,415509.0,17.5894,74.7883,Primary Health Centre,Maharashtra,Satara,Man,Man
+300,Nigadi,sub cneter nigadi,,village-nigadi,415004.0,17.6106,74.085,SubCentre,Maharashtra,Satara,Satara,Satara
+301,Pusegaon,,,Pusegaon,415502.0,17.709547,74.323787,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+302,Nandgaon,phc nandgaon,,village-nandgaon,415107.0,17.5145,74.1404,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+303,WarMhaswad,,,Warmhasawad,415509.0,17.6342,74.7844,SubCentre,Maharashtra,Satara,Man,Man
+304,Khavali,226,,Khavali,412803.0,18.010649,73.74697,SubCentre,Maharashtra,Satara,Wai,Wai
+305,Pachawad,36,,Pachwad,415513.0,17.856926,73.961346,SubCentre,Maharashtra,Satara,Wai,Wai
+306,Bhuinj,69,,Bhuinj,415515.0,17.878558,73.970473,SubCentre,Maharashtra,Satara,Wai,Wai
+307,Mogarale,,,Mogarale,415508.0,17.8759,74.5228,SubCentre,Maharashtra,Satara,Man,Man
+308,Rural Hospital Vaduj,,,At Post Vaduj,415506.0,17.5938,74.4521,Community Health Center,Maharashtra,Satara,Khatav,Khatav
+309,Machutar,41,Near Bhalgi Village,Subcenter Machutar,412806.0,17.8899,73.7223,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+310,Jalgaon,,,Jalgaon,415510.0,17.737815,74.135617,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+311,Sanbur,\N,,Sanbur,415112.0,17.263385,73.911558,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+312,Natoshi,\N,,Natoshi,415210.0,17.308235,73.882146,SubCentre,Maharashtra,Satara,Patan,Patan
+313,Bidal,\N,,Bidal,415508.0,17.737,74.519,SubCentre,Maharashtra,Satara,Man,Man
+314,Rural Hospital Mahabaleshwar,,,At Post Mahabaleshwar,412806.0,17.9299,73.648,Community Health Center,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+315,Aadarki,\N,,Aadarki,415537.0,17.921965,74.194763,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+316,Aamrag,,,Aamrag,415210.0,17.303173,73.861909,SubCentre,Maharashtra,Satara,Patan,Patan
+317,Lonand,,,Lonand,415521.0,18.042807,74.188464,Primary Health Centre,Maharashtra,Satara,Khandala,Khandala
+318,Vaadhe,sub center vadhe,,village-vadhe,415011.0,17.7247,74.028,SubCentre,Maharashtra,Satara,Satara,Satara
+319,Shendurjane,,,Shendurjane,415021.0,17.785877,74.199037,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+320,Wing,,,Wing,412801.0,18.157984,73.915125,SubCentre,Maharashtra,Satara,Khandala,Khandala
+321,Tripudi,\N,,Tripudi,415205.0,17.363895,73.929116,SubCentre,Maharashtra,Satara,Patan,Patan
+322,Lalagun,,,Lalagun,415503.0,17.781916,74.296238,SubCentre,Maharashtra,Satara,Khatav,Khatav
+323,Jakhangaon,,,Jakhangaon,415505.0,17.645681,74.32265,SubCentre,Maharashtra,Satara,Khatav,Khatav
+324,Degaon,53,,Degoan,412803.0,17.879796,74.01134,SubCentre,Maharashtra,Satara,Wai,Wai
+325,Koriwale,,,Kiriwale,415109.0,17.4272,74.0437,SubCentre,Maharashtra,Satara,Karad,Karad
+326,Morgiri,\N,,Morgiri,415210.0,17.323823,73.858905,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+327,Pusesawali,,,Pusesawali,415512.0,17.462257,74.316011,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+328,Gokhali,1,,Gokhali,415523.0,18.045697,74.617125,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+329,Saygaon,411,Near By ZP School,Saigaon,415020.0,17.7971,73.9415,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+330,Koregoan,,,Koregoan,,17.730113,74.15325,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+331,Widani,479,,Widani,415523.0,17.989722,74.494166,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+332,Apshinge,sub center apsinge,,village-apsinge,415518.0,17.415518,74.0671,SubCentre,Maharashtra,Satara,Satara,Satara
+333,Shirwade,,,Shirwade,415115.0,17.3825,74.149,SubCentre,Maharashtra,Satara,Karad,Karad
+334,Marul tarf Patan,\N,,Marul tarf Patan,415206.0,17.359855,73.831446,SubCentre,Maharashtra,Satara,Patan,Patan
+335,Bibi,,,Bibi,415523.0,17.925641,74.276447,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+336,Jinti,\N,,Jinti,415112.0,17.228249,73.894031,SubCentre,Maharashtra,Satara,Patan,Patan
+337,Atit,sub center atit,,village-atit,415519.0,17.5311,74.0669,SubCentre,Maharashtra,Satara,Satara,Satara
+338,Waluth,116,Near by Mandir,Waluth,415514.0,17.8885,73.8571,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+339,Dahiwadi,,,Dahiwadi,415508.0,17.7032,74.543,SubCentre,Maharashtra,Satara,Man,Man
+340,Nigadi,\N,,Nigadi,415501.0,17.650068,74.206605,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+341,Vennanagar,sub center vennanagar,,village-vennanagar,415022.0,17.7259,73.9287,SubCentre,Maharashtra,Satara,Satara,Satara
+342,Hategeghar,65,Near by Mandir,Hatageghar,415514.0,17.8584,73.8183,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+343,Kathapur,\N,,Kathapur,415501.0,17.6463,74.143087,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+344,Yerawale,\N,,Yerawale,415122.0,17.2723,74.1289,SubCentre,Maharashtra,Satara,Karad,Karad
+345,Degaon,sub center degaon,,village-degaon,415004.0,17.6314,74.0597,SubCentre,Maharashtra,Satara,Satara,Satara
+346,Palashi,,,Palashi,412801.0,18.120339,73.958674,SubCentre,Maharashtra,Satara,Khandala,Khandala
+347,Trimali,,,Trimali,415510.0,17.518101,74.293577,SubCentre,Maharashtra,Satara,Khatav,Khatav
+348,Nidhal,,,Nidhal,415023.0,17.706858,74.40706,SubCentre,Maharashtra,Satara,Khatav,Khatav
+349,Kaparde,,,Koparde Haveli,415115.0,17.334,74.1815,SubCentre,Maharashtra,Satara,Karad,Karad
+350,Udatare,688,,Udatare,415513.0,17.834139,73.952132,SubCentre,Maharashtra,Satara,Wai,Wai
+351,Kari,sub center kari,,village-kari,415013.0,17.6337,73.9099,SubCentre,Maharashtra,Satara,Satara,Satara
+352,Mugaon,0,,Mugaon,412803.0,17.95489,17.95489,SubCentre,Maharashtra,Satara,Wai,Wai
+353,Khojewadi,sub center khojewadi,,village-khojewadi,415518.0,17.5422,74.0973,SubCentre,Maharashtra,Satara,Satara,Satara
+354,Sadashivgad,,,Sadashivgad,415105.0,17.3144,74.2308,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+355,Chikhali,sub center chikhali,,village-chikhali,415013.0,17.5773,73.8503,SubCentre,Maharashtra,Satara,Satara,Satara
+356,Naigaon,,,Naigaon,415525.0,17.988532,74.059085,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+357,Garavade,,,Garavade,415205.0,17.30577,74.024764,SubCentre,Maharashtra,Satara,Patan,Patan
+358,Aakalpe,8,Tapola,Subcenter Akalpe,,17.7289,73.7396,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+359,Thoseghar,phc thoseghar,near waterfall thoseghar,village-thoseghar,415013.0,17.5998,73.8697,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+360,Karve 2,,,Karve 2,415124.0,17.2507,74.2087,SubCentre,Maharashtra,Satara,Karad,Karad
+361,Giravi,858,,,415523.0,17.885477,74.453782,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+362,Mendhoshi,\N,,Mendhoshi,415206.0,17.444755,73.909282,SubCentre,Maharashtra,Satara,Patan,Patan
+363,Gudhe,,,Gudhe,415103.0,17.233533,73.991447,SubCentre,Maharashtra,Satara,Patan,Patan
+364,Kelghar,173,Near by ST Stand,Kelghar,415017.0,17.8534,73.767,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+365,Padali,,,Padali,415521.0,17.980915,74.104178,SubCentre,Maharashtra,Satara,Khandala,Khandala
+366,Kalchoundi,,,Kalchoundi,415509.0,17.4805,74.7529,SubCentre,Maharashtra,Satara,Man,Man
+367,Salape,445,,,,17.951927,74.166348,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+368,Dudhebavi,3,,Dudhebavi,415523.0,17.924107,74.50769,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+369,Sub-District Hospital Phaltan,,,Phaltan,415523.0,17.9862,74.434,Sub-District Hospital,Maharashtra,Satara,Phaltan,Phaltan
+370,Pimpari,,,Pimpari,415507.0,17.511087,74.512972,SubCentre,Maharashtra,Satara,Khatav,Khatav
+371,Dhamner,,,Dhamner,415511.0,17.618497,74.160756,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+372,Kusumbi,93,Near by Baldarwadi Road,Kusumbi,415012.0,17.7654,73.8211,Primary Health Centre,Maharashtra,Satara,Jaoli,Jaoli
+373,Varoshi,144,Near by Samajmandir,BHanang,415022.0,17.8676,73.7503,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+374,Kamathee,sub center kamathee,,village-kamathee,415022.0,17.7318,73.8681,SubCentre,Maharashtra,Satara,Satara,Satara
+375,Bhose,,,Bhose,415501.0,17.744735,74.200177,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+376,Palasgaon,,,Palasgaon,415507.0,17.539491,74.547453,SubCentre,Maharashtra,Satara,Khatav,Khatav
+377,Bhadale,\N,,bhadale,415021.0,17.858963,74.215232,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+378,Tardaf,,,Tardaf,415537.0,17.860527,74.358338,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+379,Chaudharwadi,72,,Chaudharwadi,415522.0,18.017831,74.412247,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+380,Virali,\N,,Virali,415509.0,17.5003,74.7065,SubCentre,Maharashtra,Satara,Man,Man
+381,Waghajaiwadi,\N,,Waghajaiwadi,415520.0,17.401,73.985251,SubCentre,Maharashtra,Satara,Patan,Patan
+382,Varkute Malavadi,\N,,Varakute malavadi,415509.0,17.5239,74.8056,SubCentre,Maharashtra,Satara,Man,Man
+383,Shirwal,,,Shirwal,412801.0,18.149593,73.980181,SubCentre,Maharashtra,Satara,Khandala,Khandala
+384,Aahire,12,Near Tapola,Subcenter Aahire,412806.0,17.7453,73.7262,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+385,Divashi Kh.,,,Divashi Kh.,415206.0,17.453602,73.846847,SubCentre,Maharashtra,Satara,Patan,Patan
+386,Padali,sub ceter padali,,village-padali,415519.0,17.583,74.0245,SubCentre,Maharashtra,Satara,Satara,Satara
+387,Injabav,,,Injabav,415509.0,17.7827,74.7832,SubCentre,Maharashtra,Satara,Man,Man
+388,Tadwale,230,,Tadawale,415010.0,17.7517,74.1985,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+389,Mhopare,,,Mhopare,415114.0,17.3251,74.0716,SubCentre,Maharashtra,Satara,Karad,Karad
+390,Dhawadshi,sub center dhawadshi,,village-dhavadshi,415022.0,17.7513,73.9399,SubCentre,Maharashtra,Satara,Satara,Satara
+391,Waghawale,19,Near Shivsagar Jalashay,Subcenter Waghawale,412806.0,17.7303,73.6035,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+392,Ond,\N,,Ond,415111.0,17.1807,74.1156,SubCentre,Maharashtra,Satara,Karad,Karad
+393,Aatake,,,Aatake,415539.0,17.2033,74.2042,SubCentre,Maharashtra,Satara,Karad,Karad
+394,Kulakjai,,,Kulakjai,415503.0,17.796,74.4093,SubCentre,Maharashtra,Satara,Man,Man
+395,Kolaki,1520,,Kolaki,415523.0,17.979457,74.453877,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+396,Lonand,,,Lonand,415521.0,18.042297,74.188936,SubCentre,Maharashtra,Satara,Khandala,Khandala
+397,Pimpode Kh.,,,Pimpode Kh.,415011.0,17.829503,74.100835,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+398,Saygaon,407,Near by ZP School,Saigaon,415020.0,17.796,73.9534,Primary Health Centre,Maharashtra,Satara,Jaoli,Jaoli
+399,Aarewadi,\N,,Aarewadi,415114.0,17.2982,74.0686,SubCentre,Maharashtra,Satara,Karad,Karad
+400,Bombale,,,Bomble,415507.0,17.616266,74.529048,SubCentre,Maharashtra,Satara,Khatav,Khatav
+401,Dushere,,,Dushere,415110.0,17.2109,74.2147,SubCentre,Maharashtra,Satara,Karad,Karad
+402,Pal,,,Pal,415014.0,17.4906,74.0311,SubCentre,Maharashtra,Satara,Karad,Karad
+403,Karanjkhop,,,Karanjkhop,415525.0,17.94318,74.05239,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+404,Salave,132,near water park,Salve,415112.0,17.277783,73.879295,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+405,Bhilar,402,Near Primary School,Subcenter Bhilar,412805.0,17.9088,73.762,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+406,Dapawadi,42,Near By ZP School,Dapawadi,415514.0,17.8933,73.8182,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+407,Khed bk,,,Khed bk,415521.0,18.034473,74.134537,SubCentre,Maharashtra,Satara,Khandala,Khandala
+408,Ajanuj,,,Ajanuj,412802.0,18.056268,73.993839,SubCentre,Maharashtra,Satara,Khandala,Khandala
+409,Helwak,5,,Helwak,415205.0,17.376781,73.730112,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+410,Kavathe,843,,Kawathe,,17.943028,73.976103,Primary Health Centre,Maharashtra,Satara,Wai,Wai
+411,Bhalawadi,,,Bhalawadi,415508.0,16.9788,74.4734,SubCentre,Maharashtra,Satara,Man,Man
+412,Kanher,phc kanher,,Kanher,415022.0,17.7322,73.9179,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+413,Aadev,\N,,Aadev,415206.0,17.33439,73.897778,SubCentre,Maharashtra,Satara,Patan,Patan
+414,Wathar Kiroli,604,,wathar kiroli,415116.0,17.5305,74.1924,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+415,Mayani,,,Mayani,415102.0,17.446195,74.548561,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+416,RH Undale,,,At Post Undale,415118.0,17.1624,74.0889,Community Health Center,Maharashtra,Satara,Karad,Karad
+417,Goshatwadi,\N,,Goshatwadi,415205.0,17.361561,73.752818,SubCentre,Maharashtra,Satara,Patan,Patan
+418,Rural Hospital Pimpode Bk.,,,At Post Pimpoda,415525.0,17.9224,74.0948,Community Health Center,Maharashtra,Satara,Koregaon,Koregaon
+419,Kumthe,sub center kumathe,,village-kumathe,415002.0,17.5924,73.9612,SubCentre,Maharashtra,Satara,Satara,Satara
+420,Mayani,,,Mayani,415102.0,17.446484,74.548676,SubCentre,Maharashtra,Satara,Khatav,Khatav
+421,Parut,12,Subcenter Parut,Subcenter Parut,412806.0,17.8835,73.6566,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+422,Rural Hospital Dahiwadi,,,At Post Dahiwadi,415508.0,17.7005,74.5487,Community Health Center,Maharashtra,Satara,Man,Man
+423,Kanheri,,,Kanheri,412802.0,18.050601,73.922824,SubCentre,Maharashtra,Satara,Khandala,Khandala
+424,Tathavada,\N,,Tathavada,415537.0,17.861324,74.328801,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+425,Nandalapur,\N,,Nandlapur,415539.0,17.2345,74.1759,SubCentre,Maharashtra,Satara,Karad,Karad
+426,Yenape,,,Yenape,415111.0,17.1088,74.0364,SubCentre,Maharashtra,Satara,Karad,Karad
+427,Somanthali,35,,Somanthali,415523.0,18.074865,74.497495,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+428,Mandrulkole,\N,,Madrul Kole,415112.0,17.245294,73.958282,SubCentre,Maharashtra,Satara,Patan,Patan
+429,Jawali,282,,Jawali,415523.0,17.879594,74.589186,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+430,Majare Pilani,sub center majrepilani,,village-majare pilani,415002.0,17.5775,73.9381,SubCentre,Maharashtra,Satara,Satara,Satara
+431,Talmawale,phctalmavle,near college,Talmavle,415103.0,17.234843,73.995983,Primary Health Centre,Maharashtra,Satara,Patan,Patan
+432,Diwashi Bk.,\N,,Diwashi Bk.,415211.0,17.294955,73.985886,SubCentre,Maharashtra,Satara,Patan,Patan
+433,Savade,,,Savade,415111.0,17.1746,74.0692,SubCentre,Maharashtra,Satara,Karad,Karad
+434,Chimangaon,,,Chimangaon,415501.0,17.73206,74.224877,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+435,Bambavade,\N,,Bambavade,415014.0,17.51127,73.920081,SubCentre,Maharashtra,Satara,Patan,Patan
+436,Palashi,,,Palashi,415540.0,17.6693,74.6799,Primary Health Centre,Maharashtra,Satara,Man,Man
+437,Tapola,9,Near Shivsagar jalashay,Tapola Subcenter,,17.7656,73.7422,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+438,Kumbharoshi 1,91,Pratapgad Road,subcenter Kumbharoshi 1,412806.0,17.9421,73.6466,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+439,Perale,,,Perale,415109.0,17.4534,74.1144,SubCentre,Maharashtra,Satara,Karad,Karad
+440,Morgiri,,,Morgiri,415210.0,17.323894,73.859119,SubCentre,Maharashtra,Satara,Patan,Patan
+441,Shinganapur,,,Shinganapur,415508.0,17.8427,74.6678,SubCentre,Maharashtra,Satara,Man,Man
+442,Mhasurne,,,Mhasurne,415538.0,17.421766,74.441525,SubCentre,Maharashtra,Satara,Khatav,Khatav
+443,Tasgaon,,,Tasgaon,415004.0,17.6368,74.058,SubCentre,Maharashtra,Satara,Satara,Satara
+444,Andori,,,Andori,415526.0,18.08714,74.141955,SubCentre,Maharashtra,Satara,Khandala,Khandala
+445,Bijawadi,,,Bijawadi,415508.0,18.1486,74.9627,SubCentre,Maharashtra,Satara,Man,Man
+446,Bhogaon,185,,Bhogaon,412803.0,17.974387,73.84852,SubCentre,Maharashtra,Satara,Wai,Wai
+447,Tambave,,,Tambave,415114.0,17.3081,74.0841,SubCentre,Maharashtra,Satara,Karad,Karad
+448,Aahire,,,Aahire,412802.0,18.059201,74.071443,SubCentre,Maharashtra,Satara,Khandala,Khandala
+449,Pedgaon,,,Pedgaon,415503.0,17.647676,74.451648,SubCentre,Maharashtra,Satara,Khatav,Khatav
+450,Taradgaon,479,,Taradgaon,415028.0,18.028738,74.249906,Primary Health Centre,Maharashtra,Satara,Phaltan,Phaltan
+451,Kharoshi,8,Near Tapola,Subcenter Kharoshi,412806.0,17.7911,73.6795,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+452,Palashi,,,Palashi,415540.0,17.6694,74.6763,SubCentre,Maharashtra,Satara,Man,Man
+453,Nigadi,,,Nigadi,415106.0,17.4421,74.1873,SubCentre,Maharashtra,Satara,Karad,Karad
+454,Vankusavadewadi,\N,,Vankusavadewadi,415206.0,17.505069,73.810124,SubCentre,Maharashtra,Satara,Patan,Patan
+455,Kole,,,Kole,415103.0,17.2572,74.0732,Primary Health Centre,Maharashtra,Satara,Karad,Karad
+456,Pingali bk,,,Pingali BK,415508.0,17.6758,74.5125,SubCentre,Maharashtra,Satara,Man,Man
+457,Pimpari,,,Pimpari,415511.0,17.553704,74.22297,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+458,Aandhali,,,Aandhali,415508.0,17.7549,74.4734,SubCentre,Maharashtra,Satara,Man,Man
+459,Shirgaon,45,,Shirgoan,412803.0,17.901934,74.007436,SubCentre,Maharashtra,Satara,Wai,Wai
+460,Kalgoan,\N,,Kalgoan,415112.0,17.168315,73.959552,SubCentre,Maharashtra,Satara,Patan,Patan
+461,Wechale,sub center wechale,,village-wechale,415002.0,17.6166,74.0045,SubCentre,Maharashtra,Satara,Satara,Satara
+462,Paparde,,,Paparde,415211.0,17.318237,73.988288,SubCentre,Maharashtra,Satara,Patan,Patan
+463,Lodhawade,,,Lodhawade,415540.0,17.6422,74.6294,SubCentre,Maharashtra,Satara,Man,Man
+464,District Hospital Satara,,,Satara,415002.0,17.6912,74.0092,District Hospital,Maharashtra,Satara,Satara,Satara
+465,Kival,,,Kival,415106.0,17.4163,74.2162,SubCentre,Maharashtra,Satara,Karad,Karad
+466,Khingar,89,Bharti Vidyapeeth,Subcenter Khingar,412806.0,17.9103,73.8359,SubCentre,Maharashtra,Satara,Mahabaleshwar,Mahabaleshwar
+467,Tetali,35,Near by Zp School,Tetali,415002.0,17.7486,73.7683,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+468,Surli,,,Surli,415105.0,17.3272,74.2703,SubCentre,Maharashtra,Satara,Karad,Karad
+469,Charegaon,,,Charegaon,415109.0,17.371,74.0701,SubCentre,Maharashtra,Satara,Karad,Karad
+470,Katarkhatav,,,Katarkhatav,415507.0,17.568661,74.520955,Primary Health Centre,Maharashtra,Satara,Khatav,Khatav
+471,Rural Hospital Dhebewadi,,,At Post Dhebewadi,415112.0,17.2384,73.9591,Community Health Center,Maharashtra,Satara,Patan,Patan
+472,Nimbhore,56,,Nimbhore,415522.0,18.009722,74.356506,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+473,Salshirambe,\N,,Salshirambe,415111.0,17.1485,74.97,SubCentre,Maharashtra,Satara,Karad,Karad
+474,Kelghar,173,Near by ST Stand,Kelghar,415017.0,17.8533,73.7665,Primary Health Centre,Maharashtra,Satara,Jaoli,Jaoli
+475,Karve 1,,,Karve 1,415124.0,17.2507,74.2089,SubCentre,Maharashtra,Satara,Karad,Karad
+476,Shivathar,sub center shivathar,,village-shivathar,415011.0,17.78,74.0613,SubCentre,Maharashtra,Satara,Satara,Satara
+477,Thoseghar,sub center thoseghar,,village-Thoseghar,415013.0,17.6033,73.8505,SubCentre,Maharashtra,Satara,Satara,Satara
+478,Palashi,,,Palashi,415011.0,17.821195,74.111347,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+479,Songaon,132,Near By ZP School,Songaon,415020.0,17.8048,73.8912,SubCentre,Maharashtra,Satara,Jaoli,Jaoli
+480,Vyajwadi,387,,Vyajwadi,412803.0,17.873194,73.899728,SubCentre,Maharashtra,Satara,Wai,Wai
+481,Vikhale,,,Vikhale,415524.0,17.87288,74.18834,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+482,Aangaapur Vandan,sub center angapur vandan,,village-angapur vandan,415019.0,17.5773,74.1338,SubCentre,Maharashtra,Satara,Satara,Satara
+483,Wawarhire,\N,,wawarhire,415508.0,17.7831,74.6045,SubCentre,Maharashtra,Satara,Man,Man
+484,Koparde,sub center koparde,,village-koparde,415518.0,17.4895,74.1044,SubCentre,Maharashtra,Satara,Satara,Satara
+485,Kanher,sub center kanher,near kanher dam,village-kanher,415022.0,17.7325,73.9276,SubCentre,Maharashtra,Satara,Satara,Satara
+486,Belawade,\N,,Belawade,415205.0,17.329354,73.929246,SubCentre,Maharashtra,Satara,Patan,Patan
+487,Varne,sub center varne,,village-varne,415019.0,17.5886,74.1091,SubCentre,Maharashtra,Satara,Satara,Satara
+488,Yerad,,,Yerad,415206.0,17.350659,73.859233,SubCentre,Maharashtra,Satara,Patan,Patan
+489,Sasurve,,,Sasurve,415511.0,17.621344,74.180382,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+490,Aarvi,,,Aarvi,415116.0,17.511304,74.223657,SubCentre,Maharashtra,Satara,Koregaon,Koregaon
+491,Limb,phc limb,,village-limb,415515.0,17.79,74.0132,Primary Health Centre,Maharashtra,Satara,Satara,Satara
+492,Pawarwadi,38,,Pawarwadi,415523.0,18.022687,74.648326,SubCentre,Maharashtra,Satara,Phaltan,Phaltan
+493,Wathar Station,165,,wathar station,415524.0,17.8807,74.1385,Primary Health Centre,Maharashtra,Satara,Koregaon,Koregaon
+494,Naravane,,,Naravane,415540.0,17.6041,74.6184,SubCentre,Maharashtra,Satara,Man,Man
